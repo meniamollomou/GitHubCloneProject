@@ -1,3 +1,2 @@
-"This is the description of my repo" 
-"Modification in feature-greeting branch."
-"Modification in main branch."
+GitHubCloneProject 
+This is to practice Git Branching, merging, and resolving conflicts.
